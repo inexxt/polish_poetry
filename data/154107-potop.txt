@@ -1,0 +1,253 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+{
+mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+.MsoChpDefault
+{
+mso-bidi-"Times New Roman";}
+.MsoPapDefault
+{
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+-->
+
+
+
+
+
+ 
+
+
+
+
+Wiadomość o kolejnym potopie otrzymałem z rana
+
+
+tym razem nie zrobiła na mnie wrażenia
+
+
+podano miejsce i czas katastrofy  
+
+
+
+
+liczbę ofiar
+
+
+
+
+w zasadzie to po mnie spłynęło.
+
+
+
+
+ 
+
+
+
+
+Siedziałem beznamiętnie
+
+
+starałem się nie myśleć jak 
+
+
+woda podnosi się do ust
+
+
+
+
+zalewa płuca
+
+
+
+
+a krzyk – pomocy - ginie w wezbranej kipieli.
+
+
+
+
+ 
+
+
+
+
+Tego wszystkiego nie byłem w stanie sobie wyobrazić
+
+
+
+
+także krzyk  pozostał 
+
+
+
+
+jaki był – niesłyszany. 
+
+
+
+
+ 
+
+
+
+
+Usiłując uporządkować myśli na później
+
+
+pomyślałem że w końcu to się dzieje każdego dnia
+
+
+
+
+daleko stąd.
+
+
+
+
+Majaczyli mi oni 
+
+
+bezimienne  ofiaru żywiołu
+
+
+dlaczego budują domy tam gdzie tak niebezpiecznie. 
+
+
+
+
+ 
+
+
+
+
+Chciało mi się myśleć wyłącznie 
+
+
+
+
+o słońcu kwiatach giełdzie 
+
+
+
+
+najnowszej dziewczynie Bonda.
+
+
+
+
+byle nie o tym.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Usnąłem.
+
+
+
+
+Było  tam  o kimś
+
+
+
+
+kto zbudował tratwę
+
+
+
+
+
+
+przeto i wielu z nich
+
+
+
+
+
+
+prawdopodobnie ocalało.
+
+
+
+
+
+
+ 
+
+
+
+
+Kiedy się obudziłem dookoła była woda
+
+
+jakieś głazy – to chyba wierzchołki gór –
+
+
+
+
+w powietrzu unosił się gołąb
+
+
+
+
+
+
+i mit o Atlantydzie
+
+
+
+
+już nie do odzyskania.
+

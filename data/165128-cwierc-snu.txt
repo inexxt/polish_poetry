@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Tahoma;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+-->
+
+
+
+nawet przez sen opuszki wąskich palców poszukują po bezkresnej wyspie w pościeli zarumienionej ostatnimi słowami jego zapachu który wytopił się na archipelagu karmelowych kosmyków śniących jeszcze drżących jak ziemia w tamtych chwilach kiedy wymknęła się do muzeum ciepłego państwa szerokich ramion 
+
+
+a szepty najczulsze wypadają przez okno teraz bo usta pozostają nad mostem pleców gładkich jak skrzydła ćmy pogrążonej w ciemności która bezpiecznie krąży wokół świecy zawstydzonej językiem piosenek ulatujących w eter słowami przechadzającymi się po jej łydkach pomiędzy wierszami noc staje się dniem w zacisznym pokoju nikt już nie zasypia cztery ręce przecinają powietrze tworząc iluzję równości wrażliwych zmysłów z rozumnymi oczami
+

@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+{
+mso-style-link:"Tytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:15.0pt;
+margin-left:0cm;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+{
+mso-style-link:"Tytuł Znak";
+margin:0cm;
+margin-bottom:.0001pt;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+{
+mso-style-link:"Tytuł Znak";
+margin:0cm;
+margin-bottom:.0001pt;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+{
+mso-style-link:"Tytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:15.0pt;
+margin-left:0cm;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+{
+mso-style-link:"Podtytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:12.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#4F81BD;
+letter-spacing:.75pt;
+font-style:italic;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+{
+mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+span.TytuZnak
+{mso-style-name:"Tytuł Znak";"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+span.PodtytuZnak
+{mso-style-name:"Podtytuł Znak";"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#4F81BD;
+letter-spacing:.75pt;
+font-style:italic;}
+.MsoChpDefault
+{
+mso-bidi-"Times New Roman";}
+.MsoPapDefault
+{
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+-->
+
+
+
+
+
+    ... Stworzył więc Bóg człowieka na swój obraz
+
+
+
+
+…
+
+
+ według tej "definicji" jesteś człowiekiem?”
+
+
+czyli rozmowa z Janem
+
+
+ 
+
+
+mam pewne wątpliwości - co do tego
+
+
+wprawdzie jestem dwunogiem rodzaju męskiego
+
+
+ 
+
+
+ale:
+
+
+ 
+
+
+podobają mi się kolorowe ciuszki i koronkowa bielizna
+
+
+uwielbiam spędzać czas z kobietami to przyznam
+
+
+ostatnio nawet polubiłem komedie romantyczne
+
+
+(nie krajowe rzecz jasna - angielskie - zagraniczne)
+
+
+ 
+
+
+nie znoszę futbolu ani kiboli 
+
+
+nie lubię gdy ktoś pierdoli
+
+
+śmieszą mnie bardzo męscy faceci 
+
+
+i tacy co wiecznie udają dzieci
+
+
+ 
+
+
+nawet zmysł orientacji w terenie - niech  no ja skonam
+
+
+mniej mam rozwinięty niż moja żona
+
+
+i co najlepsze w tym wszystkim – niestety
+
+
+ze wszech miar podobają mi się kobiety
+
+
+ 
+
+
+więc:
+
+
+ 
+
+
+to czy jestem facetem rodzaju ludzkiego
+
+
+nie mam pewności akurat co do tego
+
+
+a może mentalnie bardziej jednak jestem niewiastą
+
+
+Janie  zauważ – „mentalnie” – nie pederastą 
+
+
+ 
+
+
+i tak to zabrnąłem do miejsca gdzie słowa
+
+
+zbyt mało znaczą by portret mój narysować
+
+
+i nie jestem pewien ale marzę kiedy mrużę powiekę,
+
+
+że byłem jestem i chciałbym być po prostu człowiekiem.
+
+
+ 
+

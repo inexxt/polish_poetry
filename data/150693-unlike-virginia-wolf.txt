@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Benguiat Bk BT";
+panose-1:2 3 9 4 5 3 6 2 7 4;
+mso-font-charset:0;
+mso-generic-font-family:roman;
+mso-font-pitch:variable;
+mso-font-signature:135 0 0 0 27 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+I am quiet
+
+
+So be it
+
+
+I am tranquil
+
+
+So be it
+
+
+I am different
+
+
+So be it
+
+
+I am hurt
+
+
+So be it
+
+
+I am naïve
+
+
+So be it
+
+
+I am full of hope
+
+
+So be it
+
+
+ 
+
+
+Fully self-affirmed
+
+
+Well, not…
+
+
+but at least trying
+
+
+Writing poetry
+
+
+with blue-brocated nails
+
+
+Unlike Virginia Wolf
+

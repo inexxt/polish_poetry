@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:roman;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+{font-family:"Edwardian Script ITC";
+mso-font-alt:"French Script MT";
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+@font-face
+{font-family:"Freestyle Script";
+panose-1:3 8 4 2 3 2 5 11 4 4;
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-unhide:no;
+mso-style-qformat:yes;
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:24.0pt;
+font-family:"Edwardian Script ITC";
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;
+font-weight:bold;
+mso-bidi-font-weight:normal;}
+.MsoChpDefault
+{mso-style-type:export-only;
+mso-default-props:yes;
+font-size:24.0pt;
+mso-ansi-font-size:24.0pt;
+mso-bidi-font-size:24.0pt;
+mso-ascii-font-family:"Edwardian Script ITC";
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-hansi-font-family:"Edwardian Script ITC";
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;
+font-weight:bold;
+mso-bidi-font-weight:normal;}
+.MsoPapDefault
+{mso-style-type:export-only;
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:roman;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+{font-family:"Edwardian Script ITC";
+mso-font-alt:"French Script MT";
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+@font-face
+{font-family:"Freestyle Script";
+panose-1:3 8 4 2 3 2 5 11 4 4;
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-unhide:no;
+mso-style-qformat:yes;
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:24.0pt;
+font-family:"Edwardian Script ITC";
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;
+font-weight:bold;
+mso-bidi-font-weight:normal;}
+.MsoChpDefault
+{mso-style-type:export-only;
+mso-default-props:yes;
+font-size:24.0pt;
+mso-ansi-font-size:24.0pt;
+mso-bidi-font-size:24.0pt;
+mso-ascii-font-family:"Edwardian Script ITC";
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-hansi-font-family:"Edwardian Script ITC";
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;
+font-weight:bold;
+mso-bidi-font-weight:normal;}
+.MsoPapDefault
+{mso-style-type:export-only;
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+Otwórzmy oczy!
+
+
+ 
+
+
+Patrzy ku niebu zapłakana brzoza, nieco zdziwiona,
+
+
+Że nagle słońce spadło tuż obok, z niedowierzaniem
+
+
+Przetarła oczy, stwierdziła z żalem, że to samolot.
+
+
+Tak bardzo chciała posklejać szczątki, lecz to ludzie
+
+
+Mają ręce, stanęła tylko bezradnością spięta,
+
+
+A wiatr kołysał jeszcze bezlistne, zapłakane gałązki.
+
+
+13.04.2010r.
+
+
+
+
+Kwiaty na bagnach
+
+
+ 
+
+
+Wiosna zasiała na katyńskiej ziemi
+
+
+Dziewięćdziesiąt sześć kwiatów by upolszczyć bagna
+
+
+Gdzie zaorany oficerskim prochem,
+
+
+Przesiąknięty inteligentną krwią patriotyzmu,
+
+
+Mamy nasz mały kawałek świata.
+
+
+Łez nam było trzeba by otworzyć oczy
+
+
+Na to co widzieliśmy nie patrząc jednak
+
+
+Gdyż prostota jest śmieszna, a śmieszność
+
+
+Tak łatwo wyrasta tylko z głupoty.
+
+
+Więc teraz na kolana głupi narodzie!
+
+
+Błagać o przebaczenie przyszło ci na koniec.
+
+
+14.04.2010r.
+

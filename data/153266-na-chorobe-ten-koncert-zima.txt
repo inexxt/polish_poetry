@@ -1,0 +1,271 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+{
+mso-style-link:"Tytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:15.0pt;
+margin-left:0cm;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+{
+mso-style-link:"Tytuł Znak";
+margin:0cm;
+margin-bottom:.0001pt;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+{
+mso-style-link:"Tytuł Znak";
+margin:0cm;
+margin-bottom:.0001pt;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+{
+mso-style-link:"Tytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:15.0pt;
+margin-left:0cm;
+border:none;
+padding:0cm;
+font-size:26.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+{
+mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+span.TytuZnak
+{mso-style-name:"Tytuł Znak";"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#17365D;
+letter-spacing:.25pt;}
+.MsoChpDefault
+{
+mso-bidi-"Times New Roman";}
+.MsoPapDefault
+{
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+-->
+
+
+
+
+
+Na chorobę ten koncert
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Gdy złe przychodzi i chce zaszkodzić 
+
+
+i  w kości wchodzi by  mi przeszkodzić…
+
+
+Wypełnia już sobą piszczele.
+
+
+Tak drży i nęka,
+
+
+Pod skórą tuż, już się rozlało po ciele.
+
+
+Dyszy,
+
+
+przepełnia 
+
+
+i czeka,
+
+
+aż radość z człowieka
+
+
+ucieka… 
+
+
+ 
+
+
+Ja się nie leczę , tylko odczyniam.
+
+
+Niech gra muzyka - niech sczeźnie zima;
+
+
+na zimno - herbata z imbirem i cytryna,
+
+
+na gorączkę – polopiryna, 
+
+
+kropla rumu na smutki
+
+
+i słów parę na dzień krótki.
+Tran na dreszcze
+
+
+i jeszcze...
+
+
+wierszyk na dobranoc,
+
+
+na sen i na rano.
+
+
+Monice -
+
+
+kameralny koncert życzeń.
+
+
+Niech zabrzmią skrzypce i wiolonczela.
+
+
+Niech fortissimo zagra kapela
+
+
+świerszczy, co przyszły się schować,
+
+
+czas trudny tu przebytować.
+
+
+ 
+
+
+Już stroją swe instrumenty.
+
+
+Kapelmistrz już pochłonięty
+
+
+nad partyturą – nokturn mistrza Jana Sebastiana.
+
+
+Za wody kroplę,  z okruszków wyszynk - grają do rana.
+
+
+Naprzód - skrzypce miarowo i altówka. 
+
+
+Później na czoło wiolonczeli solówka
+
+
+i smyki znowu -  krótko o struny jękną
+
+
+o życiu w drodze, o tym, że tęskno
+
+
+do wiosny, trawy i do zieleni,
+
+
+koloru słońca, zapachu ziemi,
+
+
+do dźwięków, jęków, liści szelestu,
+
+
+mgieł o porankach, ciszach o zmierzchu.
+
+
+Niech trwa ten koncert we śnie - na jawie. 
+
+
+Niech się rozwija - nie kończy prawie.
+
+
+Niech trwa muzyka -  ta co nie zginie 
+
+
+dopóki świerszcze, żyją w kominie.
+
+
+ 
+
+
+
+
+
+
+

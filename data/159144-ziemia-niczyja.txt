@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+.MsoChpDefault
+{
+mso-bidi-"Times New Roman";}
+.MsoPapDefault
+{
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+              Zetknął się z nim chyba każdy, kto zamieszkiwał w owych czasach tę przeklętą ziemię. Nikt jednak nie wie gdzie spoczynku zaznawał, jakie nazwisko nosił, jakie siły w nim drzemały. Najstarsi mówią tylko, że przybył tu wraz ze wszystkimi. Przygnały go dziejowe nawałnice i wiatr od wschodu, ciągle dmąc w plecy popędzał niezliczone tabory pociągów i jego w jednym z tych bydlęcych wagonów. Inna jednakże przyczyna była tej wędrówki i cel inny. Przyszłość dla wszystkich jednakowo nieznana, lecz jego przeznaczenie nawet dla Boga tajemnicą, gdyż był tylko igraszką w rękach tego okrutnika.               
+
+
+Pojawiał się i znikał nim zdążył ktoś przyjrzeć się mu z bliska. Od dawna nikt go nie spotkał lub może nikt nie chce już go zauważać. Dawni ludzie, którzy to więcej potrafili widzieć i których ostało się na tym świecie niewielu, opowiadają, że widziano go tylko na czarnym koniu. A czy człowiekiem był czy upiorem starzy ci ludzie rozsądzić nie potrafią. Zgadzają się tylko w tym, że jakaś potępieńcza łuna biła z jego bladej twarzy o jasnych włosach a z błękitnych oczu spozierał smutek i mściwość zbyt wielka. Cierpieć musiał katusze za jakąś zbrodnie przeogromną, znamię takie każdy u niego wyczuł. 
+
+
+Pojawiał się tylko w ranki chłodne, gdzie na rosie lub szronie ślady kopyt koń jego zostawiał. Widziano go też w księżyca pełni, lub gdy gęsta mgła spowijała drogi polne i leśne. Nieraz spóźniony wędrowiec z modlitwą na ustach na leśnej ścieżynie mgłą otulony, usłyszał naraz tętęt ogromny niczym by stado koni gdzieś gnało a zaraz potem przezierał go lodowaty podmuch powietrza, choćby była to gorąca sierpniowa noc. Równie często młodzieniec wracając z potajemnej schadzki w jasną księżycową noc, usłyszał rżenie konia i rozglądając się trwożliwie zauważał na pagórku dalekim jeźdźca na czarnym koniu, który w bladej poświacie księżyca, stojąc w strzemionach zdaje się wypatrywał czegoś. A i bywało, że dzieci wracając w wieczór do domów po zabawach, przynosiły słodycze jakieś zawsze z prośbą do rodziców, by modlili się za duszę potępioną za zbrodnie, którą popełnić musiał. Dobrzy ludzie modlili się za duszę potępioną i dlatego może dziś przebywa gdzieś w stronach przyjemniejszych a może modlitw nie starczyło i błąka się po tej ziemi, gdzie już nikt modlitwy za niego nie zmówi.
+
+
+ 
+
+
+Tak, obiorę sobie to miejsce na dom mój. Sąsiadami będą mi tylko wilki w lesie, orły i jastrzębie hen wysoko nad drzewami, pająki na ścianach i robactwo plugawe jak i ja. W ruinie tej sił nabierać będę do wypełnienia przeznaczenia, którego nigdy nie zdołam wypełnić do końca. Pałac to ogromny, możnym był pan jego. Lecz przeminęła możność i świetność, dziś ja tu panem, szaleniec potępiony bez swej winy za cudze grzechy. Zbrodnia moja jedna, lecz nie odpokutuje jej nigdy. Tu mnie nikt nie znajdzie, wśród zielonych pagórków cierpieć będę samotność odgrodzony od świata borem starożytnym i rzeką.
+
+
+Jakież tu życie bujne i bogate tętnić musiało. Krzesła, stoły, szafy, kufry, zegary, obrazy, piękne niegdyś, dziś wszystko połamane, zniszczone, na stosie w hallu przez żołdaków czy chłopów popalone. O, obraz cały prawie. Co za piękna kobieta na nim widnieje, Marie jej na imię było. Zawieszę tu, przy wejściu do mojego pałacu. Cóż za piękność, urocza twarz. Boże, twarz ta, jako żywo jej twarzą jest. Nie, złudzenie tylko mami, obraz jej w pamięci się zaciera i urocza Marie z obrazu wspomnienia palące i duszę rozrywające budzi. O niewdzięczna i nierozsądna, tyś moich katuszy przyczyną.
+
+
+Książki leżą w bezładzie porozrzucane, porozrywane. Obca mowa w nich brzmi, lecz mi bliższa niż chamstwo i prostactwo tych, którzy to do ruiny doprowadzili.
+
+
+Słyszę brzęk sztućców, talerzy, porcelanowej zastawy, gwar rozmów, krzątaninę służby. Ktoś butelkę z winem odkorkował, trunek szlachetny o ścianki kryształów się obija, gdzieś widelec srebrny upadł na marmurową posadzkę po dwakroć dźwięcznie się odbijając. Wtem mała dziewczynka wbiega i szczebiocąc wesoło przerywa poważną rozmowę. Szurają krzesła, sztućce uderzają o porcelanę, podkute buty głucho tupią o podłogę, skrzypią drzwi i gwar ucicha, cisza.
+
+
+Chorobliwa, złowróżbna, głucha, przejmująca cisza wnikająca w głąb duszy, w szpik kości, w krew. Dławiąca gardło, odejmująca oddech, wysysająca z płuc powietrze, tlen z krwi, myśli z umysłu. Huczy w uszach, pulsuje w żyłach, bije w skroniach, paraliżuje ruchy, odbiera chęci. Boli mnie ta cisza.
+
+
+Ach, ulga. Coś na posadzkę spadło, metaliczny dźwięk, cóż za ulga, odpoczynek od ciszy. A cóż to takiego? Szabla upadła, oficerska, rękojeść mosiężna, zdobiona. Sześć nacięć na niej, lecz ostatniego swego pojedynku wygrać nie zdołałeś, panie oficerze. Przypnę ją do pasa, niech mi towarzyszy od tej pory w niedoli.
+
+
+Słońce świeci sierpniowe, samo południe, grzeje okropnie zapewne a mnie zimno. Lodowaty powiew rozerwać próbuje dusze w strzępy. Pewnie żniwa już, jak chciałbym znów poczuć gorący pył ziaren zboża, kurzu, ziemi, traw wdzierający się w nozdrza i gardło. Nie czuję już tego zapachu, tęsknię za nim.  
+
+
+Jakąś mogiłę widzę, kształt rysuje się za rzędem dębów równo posadzonych. Lecz cóż to, rozkopana cała, kości bieleją wyschnięte w słońcu, mrówki czerwone pracowicie białe jaja kryją wśród kości, głaz nagrobkowy wywrócony. Jest napis…Marie a więc to twoje szczątki, twoje ostatnie łoże, w którym spokoju nie zaznałaś. Chłopstwo bydlęce w poszukiwaniu błyskotek kości twe zbezcześcili, nawet krzyża z głazu nie oszczędzili. Trzy haki krótkie wbite w głaz tylko zostały, kości twe psy rozniosły, tablica z imieniem twoim mchem zarasta. Patrzę dalej, widzę więcej grobów. Wszystkie tak samo zniszczone, kości w bezładzie, krzyże, granity roztrzaskane. Za nimi trzy karabiny bagnetami w ziemię wbite, chełmy na nich zawieszone. I wam żołnierzom, przyszło tu spoczywać, jutro nikt o was pamiętać nie będzie chciał nawet.
+
+
+Łuna czerwona na zachodzie, noc chłodna będzie, ruszać czas.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Benguiat Bk BT";
+panose-1:2 3 9 4 5 3 6 2 7 4;
+mso-font-charset:0;
+mso-generic-font-family:roman;
+mso-font-pitch:variable;
+mso-font-signature:135 0 0 0 27 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+I am a dried faded flower
+
+
+sitting on the window-sill
+
+
+so easy to fall out – yet, I’m still
+
+
+in my vase of solitary confusion
+
+
+Am I through?
+
+
+Or may someone like me, dried-up as I am?
+
+
+Wouldn’t like to find myself stored
+
+
+between the pages of a too-hard-to-finish book
+
+
+or scaterred in pieces on the floor
+
+
+It might be better to take the plunge now, after all
+

@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{"MS Gothic";
+panose-1:2 11 6 9 7 2 5 8 2 4;
+mso-font-alt:"ＭＳ ゴシック";}
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+{"@MS Gothic";
+panose-1:2 11 6 9 7 2 5 8 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+{
+mso-style-link:"Podtytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:3.0pt;
+margin-left:0cm;
+text-align:center;
+font-size:12.0pt;"Cambria","serif";
+mso-fareast-"MS Gothic";
+mso-bidi-"Times New Roman";}
+span.PodtytuZnak
+{mso-style-name:"Podtytuł Znak";"Cambria","serif";
+mso-fareast-"MS Gothic";
+mso-bidi-"Times New Roman";}
+.MsoChpDefault
+{
+mso-bidi-"Times New Roman";}
+.MsoPapDefault
+{
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+umarło we mnie poczucie winy
+
+
+mój hedonizm wziął górę nad całą resztą
+
+
+wypełniam się na nowo każdego dnia
+
+
+słonym oceanem bezgłośnych dreszczy
+
+
+i metalicznym wydźwiękiem z głębi żył
+
+
+ 
+
+
+czasem zastanawiam się czy to się dzieje naprawdę
+
+
+ 
+
+
+budzę się na ugiętych kolanach
+
+
+z głową opuszczoną na piersi
+
+
+i dłońmi złożonymi jak do modlitwy
+
+
+wstaję i otrzepuję kolana z grzechu realności
+
+
+moje ciało kontrolowane przez paroksyzm strachu
+
+
+zawsze ugina się przed ciepłem
+
+
+późnej podnoszę je i okrywam całunem krzyku
+
+
+by już nigdy nie wątpiło w swą śmiertelność
+
+
+ 
+
+
+ten rozpad zabił we mnie poczucie winy
+
+
+i zadaję już ból bez bólu
+
+
+nie mam ograniczeń
+
+
+to moje przeznaczenie
+
+
+to mój cel
+
+
+ 
+
+
+ból…
+

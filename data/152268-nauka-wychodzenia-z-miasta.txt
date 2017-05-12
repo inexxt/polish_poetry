@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Tahoma;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+{font-family:Verdana;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:536871559 0 0 0 415 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Tahoma;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+{font-family:Verdana;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:536871559 0 0 0 415 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Tahoma;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:1627421319 -2147483648 8 0 66047 0;}
+@font-face
+{font-family:Verdana;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:536871559 0 0 0 415 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+-->
+
+
+
+Jezusie Przenajukrzyżowańszy!
+
+
+ 
+
+
+Kalina 
+zobaczona po czterech tygodniach
+
+
+na Grochowskiej przeszła na dietę
+
+
+mówi że znów chce mieć coś w gipsie
+
+
+najlepiej nogę – dostanie odszkodowanie
+
+
+        
+i kupi sobie porządny aparat
+
+
+
+
+  
+idziemy na kawę chociaż mnie już nie wolno
+
+
+ani kawy ani Kaliny – mam chore serce
+
+
+ 
+
+
+  idziemy przez baby z siatkami przez bazar
+
+
+przez te cztery tygodnie głodne gołębie
+
+
+ 
+
+
+  idziemy bez końca wychodzimy z miasta
+
+
+nie ma Grochowa choroby pustego pokoju
+
+
+
+
+  idziemy już nigdzie i po nic od czterech tygodni
+
+
+Jezusie Przenajukrzyżowańszy minięty po drodze
+
+
+
+
+
+
+
+
+

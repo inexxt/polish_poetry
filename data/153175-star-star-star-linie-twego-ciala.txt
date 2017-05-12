@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Gill Sans MT";
+panose-1:2 11 5 2 2 1 4 2 2 3;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:7 0 0 0 3 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+*** [Linie Twego ciała…]
+
+
+ 
+
+
+Linie Twego ciała
+
+
+splatają Nasze zmysły
+
+
+supełek nocą zaplątują
+
+
+w srebrze Księżyca
+
+
+skąpane słowa
+
+
+wtapiają swe palce 
+
+
+w Twe skrzydła
+
+
+pocałunkami budzone sny
+
+
+ 
+
+
+ 
+
+
+Oparami nieświadomości
+
+
+zroszone wargi
+

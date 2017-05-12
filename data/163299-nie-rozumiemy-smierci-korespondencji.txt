@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Tahoma;
+panose-1:2 11 6 4 3 5 4 4 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:-520078593 -1073717157 41 0 66047 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+-->
+
+
+
+cześć. jest naprawdę świetnie. wieczorami grywam w brydża z przyjaciółmi, a o poranku spotykamy się na, jak wypada, porannej kawce. rozmawiamy o życiu, o w nim przeżyciu i o weekendowej śmierci od piątku do niedzieli. kochamy dygresje i małe wsparcia ze strony najbliższych. powiedzą mi czasem, ej słuchaj jesteś całkiem zajebista. ja wtedy odpowiadam, rozumiesz, dzięki, też bywacie zajebiści. najbardziej was nie rozumiem ze wszystkich okoliczności. naj to takie pozytywne słowo, prawda? lubimy być naj. najinfantylniejsi, najmentalniebrzydsi, naj – to takie miłe słowo. 
+
+
+no cóż, jeśli już pytasz, co u mnie. to taka stara bida, wiesz. czasem chodzimy ze znajomymi z najpiękniejszych tutaj mostów poskakać na bungie bez liny. czasem mierzę sobie, ile wytrzymam pod wodą w wannie, ale nie mogę złamać reguł gry. z najważniejszych, to nie możesz się wynurzyć, gdy będziesz musiał zaciągnąć się powietrzem. jak już musisz, zaciągnij się wodą. h dwa o, nazwa ci wskazuje, też ma ten twój niby niezbędny tlen. pijamy wodę z solą. wyczytałam, że zatrzymuje wodę w organizmie. a to ważne, żeby nasze wszelkie istotne komórki zachowały turgor. zawodowo przechodzimy przez ulice, na trzy cztery zaraz przed nadjeżdżającym samochodem, to takie narodowe, naukowe i w ogóle specjalistyczne badania refleksu kierowców. jak na razie jest całkiem niezły. liczymy na jego spadek, bo żadne badania nie mają sensu, jak mediana jest stale ta sama. mieszkamy w takich starych blokach, taki, jak to mówią, peerel. leżymy czasem i liczymy nierówności na suficie, i z boku odchylenie ścian od przyjętych przez was norm. zapisujemy skrupulatnie, mamy zamiar udowodnić, jak bardzo nic w nas się nie zmienia na waszym tle. 
+
+
+pracujemy nad sobą, ogarniamy życie, jak obiecaliśmy. jest naprawdę fajnie! mam nadzieję, że już nigdy nie wrócę do tego durnego świata małych radości. i nie będę patrzeć na świat przez tę pozytywną folię z elementami różowości. jak się okaże, że ma przebłyski niebieskości, to tylko same zawody. teraz wiem, wolę patrzeć na świat tak bardziej realistycznie, szaro, serio, rozumiesz. przy moich założeniach gwarantuje mi to brak rozczarowań. przecież nie obiecywałeś, że będzie gorzej.
+
+
+ 
+
+
+pozdrawiam i całuję
+
+
+Twoja i ich 
+

@@ -1,0 +1,445 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<!--
+/* Font Definitions */
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+h2
+{
+mso-style-link:"Nagłówek 2 Znak";
+margin-top:10.0pt;
+margin-right:0cm;
+margin-bottom:0cm;
+margin-left:0cm;
+margin-bottom:.0001pt;
+line-height:115%;
+page-break-after:avoid;
+font-size:13.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#4F81BD;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+{
+mso-style-link:"Podtytuł Znak";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:12.0pt;"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#4F81BD;
+letter-spacing:.75pt;
+font-style:italic;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+{
+mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+span.Nagwek2Znak
+{mso-style-name:"Nagłówek 2 Znak";
+mso-style-link:"Nagłówek 2";"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#4F81BD;
+font-weight:bold;}
+span.PodtytuZnak
+{mso-style-name:"Podtytuł Znak";"Cambria","serif";
+mso-fareast-"Times New Roman";
+mso-bidi-"Times New Roman";
+color:#4F81BD;
+letter-spacing:.75pt;
+font-style:italic;}
+.MsoChpDefault
+{
+mso-bidi-"Times New Roman";}
+.MsoPapDefault
+{
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+-->
+
+
+
+
+
+Motto:
+
+
+
+
+Są takie zdjęcia na których zawsze wychodzi się źle
+
+
+
+
+Marta Podgórnik
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+  Są takie miejsca… Burza
+
+
+Dla I.N. 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+Nie całkiem przypadkowy uśmiech
+
+
+
+
+
+
+Małej dziewczynki z mamą - na zdjęciu,
+
+
+
+
+Zatrzymany gdzieś z boku kadru
+
+
+
+
+I ten miarowy rytm –sekwencja – jakby
+
+
+
+
+Studium bezruchu - zapisane na taśmie filmowej.
+
+
+
+
+ 
+
+
+
+
+Albo niecodzienny widok : Kobieta – zjawisko -
+
+
+
+
+I dzieci -  wszystko jakby z tektury wycięte.
+
+
+
+
+
+
+A w tle czarno-biały świat. Powietrze
+
+
+
+
+
+
+Sczerniałe zastygło w oparach ołowiu i rtęci
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Są takie zdjęcia w albumie,
+
+
+
+
+
+
+Które zostają w pamięci.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Skłębione chmury rozdziera
+
+
+
+
+
+
+Znienacka pioruna błysk prędki.
+
+
+
+
+
+
+Idyllę wiejskiego pejzażu opuszcza
+
+
+
+
+
+
+ Słońca ostatni błysk tęskny.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+To światło chwilę się waha, nim
+
+
+
+
+
+
+Dźwiękiem przetoczy się błysku kur.
+
+
+
+
+
+
+Uwiązło jeszcze na chwilę wśród koszul,
+
+
+
+
+ Budynków i kolumn  zawisło …przejęło niepokój od chmur.
+
+
+
+
+ 
+
+
+
+
+
+
+Poniżej kobieta i pasterz
+
+
+
+
+
+
+Tą chwilą tak owładnięci.
+
+
+
+
+
+
+Są takie miejsca w mym oku,
+
+
+
+
+
+
+Które zostają w pamięci.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Park i szkoła wśród drzew,
+
+
+
+
+
+
+Do wspomnień tych wraca się z chęcią.
+
+
+
+
+
+
+Są takie miejsca w mym życiu
+
+
+
+
+
+
+Do których się wraca pamięcią 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Są różni ludzie w mym życiu
+
+
+
+
+
+
+ Tacy zwyczajni - nie święci.
+
+
+
+
+
+
+Zapomną, nagrzeszą, obrażą,
+
+
+
+
+
+
+A i tak kocham ich bez pamięci.
+
+
+
+
+
+
+ 
+
+
+
+
+Są takie stany w mej głowie
+
+
+Pomiędzy burzą a tęczą
+
+
+
+
+I chwile rozkoszy i smutków
+
+
+
+
+
+
+Do których się wraca pamięcią.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+Olszowice 16,09,2008 
+ 
+ 
+ 
+

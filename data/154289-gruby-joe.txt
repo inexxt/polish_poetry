@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+Joe miał ksywę po swoim bracie.
+
+
+Mały, gruby i śmierdział cebulą.
+
+
+Uwielbiał chodzić na wiejskie zabawy.
+
+
+Tam z ciął go kosą piękny Lolo.
+
+
+Pogrzeb był krótki bez mszy i gości.
+
+
+Miejsce pod murem wybrał ksiądz.
+
+
+W parceli nieznanej kwiaty czosnku.
+
+
+Podobno śmierdzą jak gruby Joe.
+
+
+ 
+
+
+ 
+
+
+

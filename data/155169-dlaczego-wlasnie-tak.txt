@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+{
+panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;"Calibri","sans-serif";
+mso-bidi-"Times New Roman";}
+.MsoChpDefault
+{
+font-size:10.0pt;}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+Przez pryzmat szklanego kieliszka
+
+
+Patrzą codziennie na świat
+
+
+Ludzie bez twarzy
+
+
+ 
+
+
+Nie wiedzą, że można inaczej
+
+
+Nie chcą pomocy od nikogo
+
+
+Wybierają śmierć
+
+
+ 
+
+
+I choć czasami są tak komiczni
+
+
+W swym życiu
+
+
+Grają tylko tragiczne role 
+
+
+ 
+
+
+Kieliszki znów są napełnione
+
+
+Wielkimi krokami zbliża się
+
+
+Potężny Anioł Śmierci
+
+
+ 
+
+
+Dziś ich zabierze…
+
+
+I tak ich życie sprawiło innym wiele krzywd i bólu
+
+
+Niech spoczywają w pokoju
+
+
+

@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+You're like a teacher who judged their students without knowing their capabilities
+
+
+ 
+
+
+You write your own negative comment staining their efforts
+
+
+ 
+
+
+Who gave you the right to judge the works of others?
+
+
+ 
+
+
+Consider whether its worth ...
+
+
+ 
+
+
+Think it might you hurt others…
+

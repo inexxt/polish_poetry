@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Bookman Old Style";
+panose-1:2 5 6 4 5 5 5 2 2 4;
+mso-font-charset:238;
+mso-generic-font-family:roman;
+mso-font-pitch:variable;
+mso-font-signature:647 0 0 0 159 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:595.3pt 841.9pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+To rozstanie jest skończone
+
+
+Więcej nie wyjedziesz stąd
+
+
+Dzisiaj weźmiesz mnie za żonę
+
+
+Pośród świec, splątanych rąk
+
+
+ 
+
+
+Pośród słów, co wyszeptane
+
+
+Ty przysięgniesz mi a ja
+
+
+Z Tobą zawsze pozostanę
+
+
+Choćby spłonął cały świat
+
+
+ 
+
+
+Proszę podejdź do mnie bliżej
+
+
+I w objęcia mocno weź
+
+
+Bo zbyt długo tu nie byłeś
+
+
+Lecz już nie opuścisz mnie
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+To rozstanie jest skończone
+
+
+Więcej nie wyjadę stąd
+
+
+I będziemy tylko dwoje
+
+
+Pośród świec, splątanych rąk
+
+
+ 
+
+
+Pośród słów, co przemilczane
+
+
+Ja przysięgnę Ci a Ty
+
+
+Ze mną zawsze pozostaniesz
+
+
+Choćby świat przeminął w pył
+
+
+ 
+
+
+Proszę podejdź do mnie bliżej
+
+
+Proszę mocno przytul się
+
+
+Bo zbyt długo tu nie byłem
+
+
+A zatańczyć z Tobą chcę
+
+
+ 
+
+
+Proszę podejdź do mnie bliżej
+
+
+Proszę mocno przytul się
+
+
+Bo zbyt długo tu nie byłem
+
+
+Lecz już nie opuszczę Cię
+

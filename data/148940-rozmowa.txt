@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Impact;
+panose-1:2 11 8 6 3 9 2 5 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:647 0 0 0 159 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+-->
+
+
+
+
+
+ 
+
+
+Przyszłaś Pani na rozmowę, 
+ mówisz, że już czas. 
+ Białą dłoń wyciągasz, 
+ cofam się, nie chcę tak. 
+ 
+ Tak po cichu i w spokoju, 
+ bez pożegnań i bez łez. 
+ Jakże mogę tak umierać, 
+ skoro jesteś czarna Śmierć. 
+ 
+ Białą rękę mi podajesz 
+ i zamgloną chowasz twarz. 
+ Pachniesz ziemią i cmentarzem, 
+ a w twych słowach gorzki żal. 
+ 
+ Moje dziecię ukochane, 
+ szepczesz Pani dziś.  
+ Jutro przyjdzie nowy ranek, 
+ a Ty wrócisz razem z nim. 
+ 
+ Chcę Cię tylko ukołysać, 
+ zabrać z ciała wszelkie zło. 
+ Gdy zaśpiewam, zaśniesz, 
+ ukojona pieśnią mą. 
+ 
+ Ile czasu mi zostało, 
+ pytam Śmierci swej. 
+  Mówi - wciąż za mało, 
+ by nacieszyć życiem się. 
+ 
+  Kiedy mnie już poznasz, 
+ w moje dłonie wtulisz twarz. 
+ Ja Ci dziecię podaruję, 
+ drugie życie, które masz. 
+ 
+ Pozostawię na Twym sercu, 
+ znak pieczęci mej. 
+ Byś poczuła, kiedy przyjdzie, 
+ ten prawdziwy dzień. 
+ 
+ 
+

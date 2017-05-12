@@ -1,0 +1,1751 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+/* Font Definitions */
+@font-face
+{font-family:"Cambria Math";
+panose-1:2 4 5 3 5 4 6 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:roman;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+{font-family:Calibri;
+panose-1:2 15 5 2 2 2 4 3 2 4;
+mso-font-charset:238;
+mso-generic-font-family:swiss;
+mso-font-pitch:variable;
+mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+{font-family:"Edwardian Script ITC";
+mso-font-alt:"French Script MT";
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+@font-face
+{font-family:"Freestyle Script";
+panose-1:3 8 4 2 3 2 5 11 4 4;
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+@font-face
+{font-family:"French Script MT";
+panose-1:3 2 4 2 4 6 7 4 6 5;
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+@font-face
+{font-family:"Bradley Hand ITC";
+panose-1:3 7 4 2 5 3 2 3 2 3;
+mso-font-charset:0;
+mso-generic-font-family:script;
+mso-font-pitch:variable;
+mso-font-signature:3 0 0 0 1 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-unhide:no;
+mso-style-qformat:yes;
+mso-style-parent:"";
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;}
+.MsoChpDefault
+{mso-style-type:export-only;
+mso-default-props:yes;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;
+mso-fareast-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;
+mso-fareast-language:EN-US;}
+.MsoPapDefault
+{mso-style-type:export-only;
+margin-bottom:10.0pt;
+line-height:115%;}
+@page Section1
+{size:612.0pt 792.0pt;
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+-->
+
+
+
+298.Romantykada
+
+
+ 
+
+
+Po tamtej stronie ulicy stoisz ty, w świetle księżyca,
+
+
+Lśnisz jaśniej od gwiazd,
+
+
+Tak bym chciało wyznać ci, to, co mnie w tobie zachwyca,
+
+
+Lecz boję się, że zgaszę ten blask.
+
+
+Ukradkiem zerkam na twą twarz, mrugam nieśmiało do ciebie,
+
+
+Tak pięknie się śmiejesz,
+
+
+Marzę pocałować cię, choć raz, z pożądaniem przewrócić na ziemię,
+
+
+Ale nie odważę się, bo mi zwiejesz.
+
+
+Serce mi bije od patrzenia tak, jak na balkonie siedzisz sycąc się mleczkiem kokosa,
+
+
+I mrużysz te oczy szmaragdowe,
+
+
+Gdyby mieć może skrzydła jak ptak, albo futro ślicznego mopsa,
+
+
+Ale nie. Całkiem dla ciebie stracić można głowę.
+
+
+ 
+Nagle powstałeś z fotela, zalotne spojrzenie mi rzuciłeś,
+
+
+Potem światło skryło się za kotarę,
+
+
+A ja słuchając wieczorne trele, w myślach udaję, że się mi przyśniłeś,
+
+
+Lecz dźwięk dzwonka przywrócił mi wiarę.
+
+
+18.07.2009r.
+
+
+ 
+
+
+299.Za dużo… za mało…
+
+
+                              
+
+
+Być romantycznym optymistą to źle,
+
+
+Niedobrze też pesymizm okazywać,
+
+
+Też nie wolno ci się zbytnio uśmiechać,
+
+
+I łez ujawniać, bo to dyskredytuje cię.
+
+
+Za dużo zakazów i barier stawiamy,
+
+
+Lecz zbyt mało dajemy z siebie,
+
+
+Korzystajmy z życia i zejdźmy na ziemie,
+
+
+Bo ocenią nas potem, z tego, czego nie wykorzystamy.
+
+
+Wszystko zaś z umiarem bierzcie,
+
+
+Dajcie też wszystko z tego, co macie,
+
+
+Tam na końcu drogi dużo więcej otrzymacie,
+
+
+A w tym życiu spotykać będzie was szczęście.
+
+
+19.07.2009r.
+
+
+ 
+
+
+300.Filozofia życia 
+
+
+ 
+
+
+Szerokie horyzonty dostrzegamy za górą,
+
+
+Śniąc tylko by osiągnąć, choć jeden,
+
+
+A to, co blisko nas już nuży
+
+
+Bo błędne mniemania zawodzą racjonalizm.
+
+
+Wkładasz rękę w gniazdo szerszeni
+
+
+Z nadzieją, że przyjmą nas za swoich,
+
+
+Ale ułuda szczęścia głębsza od morza,
+
+
+Nie zrekompensuje ludzkiej głupoty.
+
+
+Oceanem nasze ukryte ambicje,
+
+
+W przepastnej głębi jak węgorze,
+
+
+Podatni na sztormy i tsunami,
+
+
+Podobne do rozklekotanej „syrenki”.
+
+
+19.07.2009r.
+
+
+ 
+
+
+301.Zwariowany wierszyk
+
+
+ 
+
+
+Skrada się cichaczem, lisek się nazywa,
+
+
+Wpada do kurnika, kokoszkę podrywa.
+
+
+Kogut przerażony, wybałusza oczy,
+
+
+Z wielkiego przestrachu ogon sobie moczy.
+
+
+Rudowłosy chytrus czaruje wybrankę,
+
+
+Nazywa swym oczkiem i zdobi wiankiem.
+
+
+Niewytrzymała gęś stara, rzuciła się ze skrzydłami,
+
+
+Lecz się jej to nie opłaciło, szyja zmiażdżona zębami.
+
+
+Kokoszka podniecona, w koronki z pajęczyny,
+
+
+Biegnie razem z liskiem do kruka po zaślubiny.
+
+
+Kogut się otrząsnął, raban zrobił straszny,
+
+
+Ale był to ruch bardzo nierozważny.
+
+
+ 
+Rozbudzony człowiek, humor się mu popsuł,
+
+
+Kogut niemowa trafił na niedzielny rosół.
+
+
+Po kilku tygodniach wysiedziała kwoczka,
+
+
+Ani to nie kurcze ani też nie foczka.
+
+
+Lis był bardzo rozzłoszczony i nadto przerażony,
+
+
+Zgłodniał potem strasznie, tylko pióra zostały żony.
+
+
+Morał z tej historii nasuwa się taki:
+
+
+Nic dobrego nie wynika, kiedy wiążą się ze sobą zwierzęta i ptaki.
+
+
+20.07.2009r.
+
+
+ 
+
+
+302.Szukam Cię
+
+
+ 
+
+
+Idę w śród tłumu mrówek,
+
+
+Nie patrzę na wyboiste chodniki,
+
+
+Już się zaczęło zmierzchać,
+
+
+Swój koncert rozpoczęły słowiki,
+
+
+A ja szukam ciebie wśród mroku latarni,
+
+
+Bo serce moje stróżem twym na zawsze,
+
+
+I nie przestanę tropić powietrza,
+
+
+Ty jesteś moim przeznaczeniem, choć nie znasz mnie.
+
+
+23.07.2009r.
+
+
+ 
+
+
+303.Tchnienie nadziei
+
+
+ 
+
+
+W blasku kominka siedzę, myślami szukam ciebie,
+
+
+Dzwonek wyrywa z zadumy.
+
+
+Oczy wychodzą na wierzch, broda do kolan opada,
+
+
+A ty stoisz w kreacji od „pumy”.
+
+
+Parę ciężkich łez spadło i kamień z serca opadł
+
+
+Kiedy za dłoń ująłeś?
+
+
+Płomień twych warg, wilgoć języka i smak,
+
+
+Całą kontrolę nade mną przejąłeś.
+
+
+Płyniemy przez ocean westchnień i nawałnicę rozkoszy,
+
+
+Byle dalej, byle wiecznie.
+
+
+Rankiem zniknąłeś, odszedłeś znów tam,
+
+
+Zachowałeś się niegrzecznie.
+
+
+Tylko biały papier, kilka słów zostało,
+
+
+Tchnienie nadziei, obietnica.
+
+
+Czekam na wieczór, gdy zabierzesz mnie znów,
+
+
+Tam gdzie nikt szlaku nie wytycza.
+
+
+27.07.2009r.
+
+
+ 
+
+
+304.Moje miasto
+
+
+ 
+
+
+Zatrzymała się konserwa, co po szynach mknęła długo,
+
+
+Oczy się zamgliły, usta zalśniły radosną smugą.
+
+
+Ze zmęczenia głowa boli i mrowisko w udach,
+
+
+Lecz idę chodnikami tam gdzie niknie nuda.
+
+
+Mijam fontanny malownicze, całuję Fredrę w zachwycie,
+
+
+ 
+I myślę podniecony, że tu spełnię swe marne życie.
+
+
+Tak ciężko wyrazić słowami, co serce czuje w podnieceniu,
+
+
+Tak trudno słowa dobrać, coś ściska za gardło, przeszkadza w myśleniu.
+
+
+Więc nie napiszę nic więcej, lecz wszystkich namawiam,
+
+
+Kiedy w Polskę ruszycie, zaglądnijcie do Wrocławia.
+
+
+28.07.2009r.
+
+
+ 
+
+
+305.Pozwól mi 
+
+
+ 
+
+
+Kolejny wiersz poświęcam tobie,
+
+
+A moje serce tak bardzo krwawi,
+
+
+Już nie wiem, co zaraz zrobię,
+
+
+Lecz znajdę sposób i cię zwabię.
+
+
+Nie oprzesz się wtedy i na lep się złowisz,
+
+
+A ja z radością i łzami na sercu kochanie,
+
+
+Wyznam, co czuję i czekać będę na to, co odpowiesz,
+
+
+Więc pozwól mi na to wyznanie.
+
+
+28.07.2009r.
+
+
+ 
+
+
+306.Płaczka 
+
+
+Zielenią włosów okrywa rannego,
+
+
+Co się zapodział w huku prochu.
+
+
+Tuli do siebie jak męża swojego,
+
+
+Lecz nie na długo, bo szukają tropu.
+
+
+Cóż więcej może patyczaną dłonią?
+
+
+Nie zdoła krwi powstrzymać na chwilę.
+
+
+Zakryła oczy, jękiem wiatru płacze nad sobą,
+
+
+A krople zbawienną dają rannemu nadzieję.
+
+
+Nie doczekał biedak wyzwolenia,
+
+
+Wytropili i dobili do końca bohaterskiego.
+
+
+A ta płaczka stoi nadal i nic się nie zmienia,
+
+
+Niema świadka Powstania Warszawskiego.
+
+
+30.07.2009r.
+
+
+ 
+
+
+307.Sięgnąć dna
+
+
+ 
+
+
+Stacza się czas na dno, co sekundę,
+
+
+Przemija z wiatrem opalenizna lata,
+
+
+Śmierć nie narzeka na nudę,
+
+
+I coraz to nowsza gwiazdka spada.
+
+
+Już to, co wisi ma szansę utonąć,
+
+
+Nierozwiązane staje nagą prawdą,
+
+
+I woda w powietrzu może spłonąć,
+
+
+Bo miłość nie jest już siłą żadną.
+
+
+Spadają dusze na dno Hadesu,
+
+
+Znikają wspomnienia bez życia,
+
+
+Przewrotny los nie robi problemów,
+
+
+Bo już osiągną dno i nie ma odwrotu, wyjścia…
+
+
+30.07.2009r.
+
+
+ 
+
+
+308.Ułamki czasu
+
+
+ 
+
+
+Ulotne chwile jak czas,
+
+
+bo minuty składają wieki,
+
+
+a człowiek ubiera się w zmarszczki,
+
+
+i kot linieje na zapiecku...
+
+
+Upływa wody w lodowcach,
+
+
+i słońce wypala się, co dnia,
+
+
+bo tylko wieczność niezmienna,
+
+
+sprowadza wszystko do zapomnienia.
+
+
+A głupiec myśli bezmyślnie,
+
+
+ułudą żyje w beznadziejnych myślach,
+
+
+choć śmierć podcięła mu aortę.
+
+
+31.07.2009r.
+
+
+ 
+
+
+309.Cudowne cuda
+
+
+ 
+
+
+Cudem jest życie nam dane,
+
+
+choć za krótkie zawsze,
+
+
+lecz na tyle długie by kochać.
+
+
+Cudem jest człowiek słaby,
+
+
+bo mocą swą prawdy odsłania,
+
+
+a zło już nie ściga jak innych.
+
+
+Cudem to wszystko, co w nas,
+
+
+co otacza szarfą byś mógł żyć.
+
+
+Nikt nie chce widzieć tego,
+
+
+banałem nazywa chwile tu,
+
+
+bo zapomina skąd się wziął.
+
+
+31.07.2009r.
+
+
+ 
+
+
+310.Dylemat filologa
+
+
+ 
+
+
+Poszełem se na wzguża 
+
+
+Rzeby
+  
+podziwadź zachud słojca
+
+
+Na śrotku rosła rurza 
+
+
+Z kroplami rosy na kolcach.
+
+
+Chciało by się zerwać
+
+
+Błenkitnych chmór roskosznoł woń,
+
+
+Lecz jak tu rzycie przerwaci,
+
+
+Skoro rosilinka ma taką niebespiecznoł broni.
+
+
+I tak by ciągle molestować
+  
+błendami
+
+
+Uho filologów nie tylko z UJOTU 
+
+
+Dlatego do poprawności dochodzimy nie sami,
+
+
+Bo bez ortografii nie ruszysz do przodu.
+
+
+10.08.2009r.
+
+
+ 
+
+
+311.Jestem tu
+
+
+ 
+
+
+Biegniesz codziennie, mijasz się z życiem,
+
+
+Kiedy braknie ci sił?
+
+
+Niesiesz zmartwienia, radość przeklinasz,
+
+
+Boisz się na zewnątrz wyjść.
+
+
+Zamykasz oczy, biegniesz na oślep,
+
+
+Byle dalej gdzieś…
+
+
+Nie zdradzasz myśli, tłumisz uczucia,
+
+
+Samotność zabija cię.
+
+
+Odrzucasz wszystko, co jest ode mnie,
+
+
+Dlaczego tak dzieje się?
+
+
+Tylko moja dłoń wyciągnięta jest,
+
+
+Popatrz w moje serce,
+
+
+Przyjmij ten bezcenny gest.
+
+
+Usiądź tuż koło mnie, przytul się.
+
+
+Spiję twoje łzy,
+
+
+W inny wymiar świata wezmę cię.
+
+
+Po co się wyrywasz? Po co wciąż uciekasz?
+
+
+- Powiedz mi.
+
+
+Nie jestem potworem, nie daję łez,
+
+
+Słońcem opromienić chcę.
+
+
+Popatrz, chociaż na mnie, szmaragdowy błysk daj,
+
+
+Czy przestaniesz biegnąć już?
+
+
+Pozwól pomóc sobie, pozwól, chociaż na to,
+
+
+By sen dał ukojenie myślom.
+
+
+15.08.2009r.
+
+
+ 
+
+
+312.Obok ciebie
+
+
+ 
+
+
+Jak cień, na krok nie opuszczam ciebie,
+
+
+Idziemy razem, lecz zawsze osobno.
+
+
+Twój wzrok pada ponad moją głowę,
+
+
+Choć tak bardzo pragnę w oczach twych utonąć.
+
+
+Udajesz, że się nieznany i depczesz mnie
+
+
+Jak płatki róż rzucone pod twoje nogi.
+
+
+Kiedy zechcesz wreszcie zobaczyć
+
+
+Ten błysk moich oczu zapatrzonych w ciebie?
+
+
+22.08.2009r.
+
+
+ 
+
+
+313.Przystanek 
+
+
+ 
+
+
+Życie ucieka, znika za rogiem snów,
+
+
+Bez zatrzymania, jakby bez oczu.
+
+
+Końca nie widać, choć gdzieś jest,
+
+
+Myli się myśląc, że nie zatrzyma się.
+
+
+Stań, choć na chwilę, popatrz przed siebie,
+
+
+Pomyśl nim powiesz: Nie jesteś Nim.
+
+
+Za słaby jesteś by stać się Bogiem
+
+
+Więc nie rozkazuj już mi!
+
+
+Biegniesz tak szybko, a los dogania,
+
+
+Myślisz, że zatrzesz ślady, gdy zamkniesz oczy.
+
+
+Nie chcesz już kochać, lecz miłość w sercu śpi,
+
+
+Na darmo wszystko, kiedy ucieknąć nie masz gdzie.
+
+
+Zmieniasz kierunki, choć wracasz znów,
+
+
+Zapętlasz sznurem, motasz się w niciach swych.
+
+
+Stoi przystanek, lecz nie po drodze ci,
+
+
+Bo chcesz osiągnąć bezkres swoich dni.
+
+
+Boisz się czegoś, lecz nie ominie cię los,
+
+
+Bo tak jak wszystko, uwikłane jest w fatum.
+
+
+23.08.2009r.
+
+
+ 
+
+
+314.Prawdy zakłamane
+
+
+ 
+
+
+Kłam tylko kłam i nie przejmuj się tym,
+
+
+Zmieniaj prawdy, co dnia, łgarstwem maluj też sny.
+
+
+Zabierz mnie tam gdzie nie kończy się nic,
+
+
+Nakarm słodyczą kłamstw, ja potem oddam ci.
+
+
+Tak trudno powiedzieć nam, że w życiu jest coś nie tak,
+
+
+Nie wyszło nam to lub to, nie stało się, tak jak miało być.
+
+
+Zgubieni we własnych snach, uwikłani w intrygi nić,
+
+
+Szukamy wciąż nowych kłamstw, choć starych nie jest brak.
+
+
+Zniekształcamy historię dni, ścieramy odwieczne prawdy lat,
+
+
+Bez zastanowienia niszczymy własny dzień.
+
+
+Z piasku miasta sypią się, uciekają w cień,
+
+
+Bo na kłamstwie nie może być żaden trwały świat.
+
+
+28.08.2009r.
+
+
+ 
+
+
+315.Pogoda na przyszłość
+
+
+ 
+
+
+Zabierz mnie tam gdzie nie kończy się sen,
+
+
+Otul najczystszym jedwabiem swych ust.
+
+
+W rozkoszny eden zmień życia sens,
+
+
+I zatańcz ze mną może ostatni już walc.
+
+
+Potem niech dzieje się, co ma być,
+
+
+Bo życie przecież i tak krótkie jest.
+
+
+Ciągle twój anioł mówi: na przód idź,
+
+
+Choć droga kolcami utkana jak jeż.
+
+
+Żyję nadzieją, że jutro lepiej jest,
+
+
+Bo, po co żyć skoro celu brak?
+
+
+Więc biegnę pod prąd by przejść
+
+
+Nie przez los, lecz swój nakreślony szlak.
+
+
+29.08.2009r.
+
+
+ 
+
+
+316.Taki czas
+
+
+ 
+
+
+Jest taki dzień, gdy słońce lśni,
+
+
+Szczęście na chwilę stanęło tu.
+
+
+Jest taka noc, gdy nikt nie śpi,
+
+
+Bo miłości nie potrzeba snu.
+
+
+Choć tylko moment trwa chwila ta,
+
+
+To warto zatrzymać swój życia bieg,
+
+
+Miło jest tańczyć, gdy eros w sercu gra,
+
+
+Gdy niewidzialny most łączy drugi brzeg.
+
+
+Jest taki czas dany nam od losu,
+
+
+Kiedy to wszystko obojętnym się staje,
+
+
+Bo wtedy uczucia dochodzą do głosu,
+
+
+I żadna moralność nie zmieni tego, ani obyczaje.
+
+
+31.08.2009r.
+
+
+ 
+
+
+317.Zakazana miłość
+
+
+ 
+
+
+Ta cisza wciąż w uszach mi dzwoni,
+
+
+Przeszkadza każda pustka bez ciebie.
+
+
+Wciąż patrzę w okno jak idziesz ulicą,
+
+
+Z uśmiechem w sercu witasz ziemię.
+
+
+Marzeniem dotykam twych ust,
+
+
+Spojrzeniem pieszczę aksamit ciała.
+
+
+ 
+Wiem, że masz wybredny gust,
+
+
+Więc wszelka nadzieja gdzieś uciekła.
+
+
+Wierzę w to co może być po czasie,
+
+
+Kiedy znikną wszelkie mury lęków.
+
+
+Nie dokończę tego wyznania na razie,
+
+
+Jestem pod urokiem twoich wdzięków.
+
+
+12.09.2009
+
+
+ 
+
+
+318.Szukam i czekam
+
+
+ 
+
+
+W cieniu powiek biegnie spojrzenie jak pies,
+
+
+Nieposłuszne wodzom tropi ślad twych ust,
+
+
+Choć już dawno porwał cię kamienicy róg,
+
+
+Za wygraną nie daje patrząc wciąż.
+
+
+Usiądę wygodnie w fotelu,
+
+
+Co mi innego zostało prócz marzeń,
+
+
+Poczekam jak wracać będziesz dnia każdego,
+
+
+By choć na chwilę rozradować mój świat.
+
+
+19.09.2009r.
+
+
+ 
+
+
+319. Nadziei już brak? – myśli zebrane
+
+
+Zostało tylko czekanie jak zapuka koniec świata.
+
+
+W białej sukni zatańczy, lecz bez kosy tylko z fenolem.
+
+
+Czekam obojętny, bo życie bez spełnionych marzeń to dno.
+
+
+Głupie serce wciąż wierzy, że Bóg istnieje nie-na-niby.
+
+
+Rozum już dawno wysnuł teorię, że świat tylko dla bogaczy.
+
+
+Rozpadam się w głębi, choć ciało jeszcze młode.
+
+
+Duch zdeterminowany podcina tętnice, i nie umiera. 
+
+
+Jakiż to melodramat, tragedia, z której śmieją się dzieci.
+
+
+Sfrustrowany wzrok szuka w ciemnościach jak kot.
+
+
+Słuch utonął w dźwiękach stukającego czasu.
+
+
+I tylko język mamrocze coś pod nosem, że słone.
+
+
+Nic, zupełnie nic tylko ta cisza przerywana świstem oddechu.
+
+
+Ta samotność tak boli, nawet umarli wiedzą o tym.
+
+
+Kiedy stracona wiara to i miłości przepadła a nadzieja stchórzyła jak zawsze.
+
+
+20.09.2009r.
+ 
+
+
+ 
+
+
+312.Oni i my?
+
+
+ 
+
+
+Dzielimy wszystko na gorsze czy lepsze,
+
+
+Sami nie jesteśmy bez winy.
+
+
+Ocen i pogardy nie żałujemy innym,
+
+
+Zapominamy skrytykować siebie.
+
+
+Przy zgaszonym świetle znajdujemy winnych,
+
+
+Lecz sami kradniemy w światłach jupiterów.
+
+
+Pełni banalnych wymówek bez wiary traktujemy wszystko,
+
+
+Siebie stawiamy za wzór wszelkich cnót.
+
+
+22.09.2009r.
+
+
+ 
+
+
+313.Jesień
+
+
+ 
+
+
+Ostatni liść wypadł z rudej kity jesieni,
+
+
+Schowany przez wiatr przed deszczem.
+
+
+Nic co zależne od czasu i natury,
+
+
+Nie skryje się nawet za plecami wroga.
+
+
+Zeschłe trawy powiązane nitkami Arachne
+
+
+Ułożyły łyse kłosy na rdzawej poduszce mchu.
+
+
+Lepiej jest chyba umierać na leżąco,
+
+
+ 
+Bo poco kłopotów przysparzać rodzinie.
+
+
+Jeszcze tylko niedźwiedź w złym humorze,
+
+
+Szuka czegoś na ząb, by zimie pokazać tłusty tyłek.
+
+
+Ta depresja nie zmyka przed ciepłem kominka,
+
+
+A słońce wielce obrażone czasem zerka z pod kapelusza chmur.
+
+
+30.09.2009r.
+
+
+ 
+
+
+314.Babie lato
+
+
+ 
+
+
+Zza parawanu mgły wrzosowisko jaśnieje uśmiechem,
+
+
+Zmarznięte słońce zaciera promienie,
+
+
+Ciężkie pierzyny niechętnie odkrywają niebo,
+
+
+A ja siedzę na werandzie pijąc gorącą czekoladę.
+
+
+Udeptaną ścieżką kroczy staruszka w powłóczystej tunice,
+
+
+Z włosów spływają nitki czepiając się wszędzie,
+
+
+Jak stara tkanina pokrywają ścierniska,
+
+
+A rosa skacze mieniąc się barwami niby linoskoczka.
+
+
+Południe wyznacza czas krótkim dniom,
+
+
+I ptaki jakoś bardziej stały się zrzędliwe,
+
+
+Vivaldi
+  
+męczy co dzień orkiestrę w odtwarzaczu,
+
+
+A księżyc wcześniej rozpoczyna taniec godowy.
+
+
+01.10.2009r.
+
+
+ 
+
+
+315.Stan podniecenia
+
+
+ 
+
+
+W oczach twych utonąć mogę,
+
+
+Zasnąć na ustach słowem kocham cię,
+
+
+Przeniknąć twe ciało aż do szpiku duszy,
+
+
+Bo życie bez ciebie nie ma sensu na dziś.
+
+
+Twój zapach zamykam w płucach,
+
+
+Trzewia wypełniam smakiem uśmiechu,
+
+
+Biegnę za twym cieniem jak pies tropiciel,
+
+
+I bez odpoczynku nie opuszczam na krok.
+
+
+Zasłaniasz mi słońce blaskiem iskier wzroku,
+
+
+Pociągasz pragnieniem kuglarza sposobem,
+
+
+Niech się nie kończy to, co trwać powinno,
+
+
+Niech trwa co realnie bywa niemożliwe.
+
+
+01.10.2009r.
+
+
+ 
+
+
+316.Stracone chwile
+
+
+ 
+
+
+Jak krople deszczu na rozpalonej ziemi,
+
+
+Spragnione usta gorączką spieczone,
+
+
+Oddech w bezdechu na szczycie Andów,
+
+
+Tak pragnę ciebie dniem i nocną marą.
+
+
+W myślach wkładam w twą dłoń zapach róż,
+
+
+Dotykam wzrokiem ust zmysłowych,
+
+
+Ponętne ciało oplatam jak bluszcz westchnieniem,
+
+
+Lecz na nic te nadzieje płonne, bo tyś jest fantazją.
+
+
+Igrasz zemną płomykiem świec,
+
+
+Kusisz aromatem czerwonego wina,
+
+
+Zasłaniasz mi oczy obietnicą wspólnych dni,
+
+
+A potem się budzę i z wyrzutem krzyczę:
+
+
+Szkoda tych straconych chwil!
+
+
+05.10.2009r.
+
+
+ 
+
+
+317.Pamiętasz ten dzień?
+
+
+                             
+
+
+Słońce jak zawsze jasnym płomieniem wschodziło,
+
+
+Niesione ariami słowiczych strun.
+
+
+W twych włosach igrało jeszcze piórko po nocy,
+
+
+Kiedy poranek wyrwał cię ze snu.
+
+
+Goniłem wzrokiem po twej śniadej twarzy,
+
+
+Tuląc do serca wieczorne słowa.
+
+
+Gotowe usta na kolejny pocałunek bez mar,
+
+
+Wyżej na niebo słońce się wzniosło.
+
+
+Pamiętasz ten dzień, pełny zapachu róż,
+
+
+Smutki i troski odeszły gdzieś.
+
+
+Sami wśród obłoków namiętnej rozkoszy,
+
+
+Płyniemy z nurtem żądz.
+
+
+05.10.2009r.
+
+
+ 
+
+
+318.„Pozwólcie mi odejść…”
+
+
+ 
+
+
+Kiedy już dogasł płomień,
+
+
+Łzami przyjaciół zalany,
+
+
+Niesione ciche westchnienia ku niebu,
+
+
+Na oścież dla Niego otwarły bramy.
+
+
+*
+
+
+Tylko kilka uderzeń serca zostało,
+
+
+Jeszcze powietrze płuca wypełniły,
+
+
+„Pozwólcie mi odejść…” szeptem powiedziane,
+
+
+I ostatnie iskry w oczach się zgasiły.
+
+
+*
+
+
+Odszedł niesiony kirowym dzwonem,
+
+
+Żegnany brawami wiernych mu ludzi,
+
+
+Prostych parę desek, ewangeliarz zamknięty,
+
+
+Może ten cud na nowo wiarę w nas obudzi?
+
+
+W kolejna rocznie wyboru J.P.2/ 16.10.2009r
+
+
+ 
+
+
+319.Taki trud 
+
+
+                               
+
+
+Z wypiekami na sercu biegnie na spotkanie,
+
+
+Rdzawe przeznaczenie przysłoniło oczy.
+
+
+Miłość jest ślepą naiwną strzałą Amora,
+
+
+Wystrzelona bez celu, trafia w serca tarczę.
+
+
+*
+
+
+Bez niej jest tak trudno iść przez życie,
+
+
+Z nią nie łatwiej nieść wszelakie krzyże.
+
+
+Jednak, gdy ciężko lepiej cierpieć razem,
+
+
+Bo samotność to nadzieja beznadziei.
+
+
+*
+
+
+Trudne są wybory, trudne jest kochanie,
+
+
+Lecz nie ma nic za darmo, wszystko dziś kosztuje.
+
+
+Czas tak szybko biegnie, a my razem z nim na oślep,
+
+
+Kiedy śmierć zaglądnie w oczy wtedy 
+kochać będziesz więcej.
+
+
+19.10.2009r
+
+
+ 
+
+
+320.Czy to jest…?
+
+
+ 
+
+
+Od kilku słów zaczętych niedokończeniem,
+
+
+Tych, których tak rzadko się używa dla każdego,
+
+
+Tych z głębi serca, uczuciem zapalonych,
+
+
+Z człowieka robiąc wariata na czas krótki,
+
+
+Za krótki aby trwał wiecznie i beztrosko…
+
+
+*
+
+
+Spotkanie dwóch różnych ludzi,
+
+
+A jednak połączonych niewidzialną nicią,
+
+
+Złączonych niby przypadkiem niby losem,
+
+
+Nasuwa się pytanie: czy to przyjaźń a może kochanie?
+
+
+21.10.2009r
+
+
+ 
+
+
+321.Iskra na drodze
+
+
+ 
+
+
+Idziemy z przeciwka krętym korytarzem,
+
+
+Z powiekami nasuniętymi na wzrok,
+
+
+Potknięcia, choć ranią bose stopy,
+
+
+Nie są bolesne a krew płynie bezbarwna.
+
+
+Jakaś gwiazda wpadła kominkiem,
+
+
+Przyniosła ciepło uczuć kosmicznej miłości,
+
+
+Po twarzach blaskiem uderzyła,
+
+
+Lecz oczy tylko iskrę zobaczył jakby przez mgłę.
+
+
+Czy kiedy
+  
+się w końcu spotkamy ,
+
+
+Wyszepczemy magiczną formułkę
+
+
+I złączeni śmiertelnym pocałunkiem czasu,
+
+
+Stworzymy wspólnotę ciał i dusz?
+
+
+18.11.2009r.
+
+
+ 
+
+
+322.Za drzwiami ty…
+
+
+ 
+
+
+Tak chłodne dni, zaśnieżone okna,
+
+
+Dzwonią dziobkami zmarznięte ćwirki,
+
+
+Gile chrupią czerwoną jarzębinę,
+
+
+Niechętne słońce mieni się w soplach.
+
+
+Otula kocem, bujam się przy kominku,
+
+
+Iskry plotą bajki jakby bracia Grimm,
+
+
+Kot mruczy płaszcząc się na gzymsie z marmuru,
+
+
+I nagle dzwonek u drzwi zmusił mnie do wysiłku.
+
+
+Wpadam w twe objęcia, zmarzłe usta kąsam, 
+
+
+ 
+ 
+Już więcej nie czekam, oddaje się tobie,
+
+
+Ty bierzesz nie dając nic prócz tego, co masz,
+
+
+I tylko czuję płonące dłonie w moich włosach.
+
+
+22.11.2009r.
+     
+
+
+ 
+
+
+ZBIÓR WIERSZY Z OSTATNICH TYGODNI ROKU
+
